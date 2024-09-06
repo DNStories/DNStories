@@ -1,0 +1,288 @@
+001 000 XA World
+002 001 XB Africa
+014 002 XH Eastern Africa
+108 014 BI Burundi
+174 014 KM Comoros
+262 014 DJ Djibouti
+232 014 ER Eritrea
+231 014 ET Ethiopia
+404 014 KE Kenya
+450 014 MG Madagascar
+454 014 MW Malawi
+480 014 MU Mauritius
+175 014 YT Mayotte
+508 014 MZ Mozambique
+638 014 RE Reunion
+646 014 RW Rwanda
+690 014 SC Seychelles
+706 014 SO Somalia
+800 014 UG Uganda
+834 014 TZ United Republic of Tanzania
+894 014 ZM Zambia
+716 014 ZW Zimbabwe
+017 002 XI Middle Africa
+024 017 AO Angola
+120 017 CM Cameroon
+140 017 CF Central African Republic
+148 017 TD Chad
+178 017 CG Congo
+180 017 CD Democratic Republic of the Congo
+226 017 GQ Equatorial Guinea
+266 017 GA Gabon
+678 017 ST Sao Tome and Principe
+015 002 XJ Northern Africa
+012 015 DZ Algeria
+818 015 EG Egypt
+434 015 LY Libya
+504 015 MA Morocco
+736 015 SD Sudan
+728 015 SS South Sudan
+788 015 TN Tunisia
+732 015 EH Western Sahara
+018 002 XK Southern Africa
+072 018 BW Botswana
+426 018 LS Lesotho
+516 018 NA Namibia
+710 018 ZA South Africa
+748 018 SZ Swaziland
+011 002 XL Western Africa
+204 011 BJ Benin
+854 011 BF Burkina Faso
+132 011 CV Cape Verde
+384 011 CI Cote d'Ivoire
+270 011 GM Gambia
+288 011 GH Ghana
+324 011 GN Guinea
+624 011 GW Guinea-Bissau
+430 011 LR Liberia
+466 011 ML Mali
+478 011 MR Mauritania
+562 011 NE Niger
+566 011 NG Nigeria
+654 011 SH Saint Helena, Ascension, and Tristan da Cunha
+686 011 SN Senegal
+694 011 SL Sierra Leone
+768 011 TG Togo
+019 001 XC Americas
+029 019 XN Caribbean
+660 029 AI Anguilla
+028 029 AG Antigua and Barbuda
+533 029 AW Aruba
+531 029 CW Curacao
+534 029 SX Sint Maarten (Dutch part)
+535 029 BQ Bonaire, Sint Eustatius and Saba
+530 029 AN Netherlands Antilles
+044 029 BS Bahamas
+052 029 BB Barbados
+092 029 VG British Virgin Islands
+136 029 KY Cayman Islands
+192 029 CU Cuba
+212 029 DM Dominica
+214 029 DO Dominican Republic
+308 029 GD Grenada
+312 029 GP Guadeloupe
+332 029 HT Haiti
+388 029 JM Jamaica
+474 029 MQ Martinique
+500 029 MS Montserrat
+630 029 PR Puerto Rico
+659 029 KN Saint Kitts and Nevis
+662 029 LC Saint Lucia
+652 029 BL Saint Barthelemy
+663 029 MF Saint Martin (French part)
+670 029 VC Saint Vincent and the Grenadines
+780 029 TT Trinidad and Tobago
+796 029 TC Turks and Caicos Islands
+850 029 VI United States Virgin Islands
+013 019 XO Central America
+084 013 BZ Belize
+188 013 CR Costa Rica
+222 013 SV El Salvador
+320 013 GT Guatemala
+340 013 HN Honduras
+484 013 MX Mexico
+558 013 NI Nicaragua
+591 013 PA Panama
+005 019 XP South America
+032 005 AR Argentina
+068 005 BO Bolivia
+076 005 BR Brazil
+152 005 CL Chile
+170 005 CO Colombia
+218 005 EC Ecuador
+238 005 FK Falkland Islands
+254 005 GF French Guiana
+328 005 GY Guyana
+600 005 PY Paraguay
+604 005 PE Peru
+740 005 SR Suriname
+858 005 UY Uruguay
+862 005 VE Venezuela
+021 019 XQ Northern America
+060 021 BM Bermuda
+124 021 CA Canada
+304 021 GL Greenland
+666 021 PM Saint Pierre and Miquelon
+840 021 US United States of America
+142 001 XD Asia
+143 142 XR Central Asia
+398 143 KZ Kazakhstan
+417 143 KG Kyrgyzstan
+762 143 TJ Tajikistan
+795 143 TM Turkmenistan
+860 143 UZ Uzbekistan
+030 142 XS Eastern Asia
+156 030 CN China
+344 030 HK Hong Kong Special Administrative Region of China
+446 030 MO Macao Special Administrative Region of China
+408 030 KP Democratic People's Republic of Korea
+392 030 JP Japan
+496 030 MN Mongolia
+410 030 KR Republic of Korea
+158 030 TW Taiwan
+034 142 XT Southern Asia
+004 034 AF Afghanistan
+050 034 BD Bangladesh
+064 034 BT Bhutan
+356 034 IN India
+364 034 IR Iran (Islamic Republic of)
+462 034 MV Maldives
+524 034 NP Nepal
+586 034 PK Pakistan
+144 034 LK Sri Lanka
+035 142 XU South-Eastern Asia
+096 035 BN Brunei Darussalam
+116 035 KH Cambodia
+360 035 ID Indonesia
+418 035 LA Lao People's Democratic Republic
+458 035 MY Malaysia
+104 035 MM Myanmar
+608 035 PH Philippines
+702 035 SG Singapore
+764 035 TH Thailand
+626 035 TL Timor-Leste
+704 035 VN Vietnam
+145 142 XV Western Asia
+051 145 AM Armenia
+031 145 AZ Azerbaijan
+048 145 BH Bahrain
+196 145 CY Cyprus
+268 145 GE Georgia
+368 145 IQ Iraq
+376 145 IL Israel
+400 145 JO Jordan
+414 145 KW Kuwait
+422 145 LB Lebanon
+275 145 PS State of Palestine
+512 145 OM Oman
+634 145 QA Qatar
+682 145 SA Saudi Arabia
+760 145 SY Syrian Arab Republic
+792 145 TR Turkey
+784 145 AE United Arab Emirates
+887 145 YE Yemen
+150 001 XE Europe
+151 150 XW Eastern Europe
+112 151 BY Belarus
+100 151 BG Bulgaria
+203 151 CZ Czech Republic
+348 151 HU Hungary
+616 151 PL Poland
+498 151 MD Republic of Moldova
+642 151 RO Romania
+643 151 RU Russian Federation
+703 151 SK Slovakia
+804 151 UA Ukraine
+154 150 QM Northern Europe
+248 154 AX Aland Islands
+208 154 DK Denmark
+233 154 EE Estonia
+234 154 FO Faeroe Islands
+246 154 FI Finland
+831 154 GG Guernsey
+352 154 IS Iceland
+372 154 IE Ireland
+833 154 IM Isle of Man
+832 154 JE Jersey
+428 154 LV Latvia
+440 154 LT Lithuania
+578 154 NO Norway
+744 154 SJ Svalbard and Jan Mayen Islands
+752 154 SE Sweden
+826 154 GB United Kingdom of Great Britain and Northern Ireland
+901 154 UK Great Britain code
+039 150 QN Southern Europe
+008 039 AL Albania
+020 039 AD Andorra
+070 039 BA Bosnia and Herzegovina
+191 039 HR Croatia
+292 039 GI Gibraltar
+300 039 GR Greece
+336 039 VA Holy See
+380 039 IT Italy
+470 039 MT Malta
+620 039 PT Portugal
+674 039 SM San Marino
+688 039 RS Serbia
+689 039 KV Kosovo
+499 039 ME Montenegro
+705 039 SI Slovenia
+724 039 ES Spain
+807 039 MK North Macedonia
+155 150 QO Western Europe
+040 155 AT Austria
+056 155 BE Belgium
+250 155 FR France
+276 155 DE Germany
+438 155 LI Liechtenstein
+442 155 LU Luxembourg
+492 155 MC Monaco
+528 155 NL Netherlands
+756 155 CH Switzerland
+921 155 EU European Union
+249 155 FX Metropolitan France
+009 001 XF Oceania
+053 009 QP Australia and New Zealand
+036 053 AU Australia
+554 053 NZ New Zealand
+574 053 NF Norfolk Island
+054 009 QQ Melanesia
+242 054 FJ Fiji
+540 054 NC New Caledonia
+598 054 PG Papua New Guinea
+090 054 SB Solomon Islands
+548 054 VU Vanuatu
+057 009 QR Micronesia
+316 057 GU Guam
+296 057 KI Kiribati
+584 057 MH Marshall Islands
+583 057 FM Micronesia (Federated States of)
+520 057 NR Nauru
+580 057 MP Northern Mariana Islands
+585 057 PW Palau
+061 009 QS Polynesia
+016 061 AS American Samoa
+184 061 CK Cook Islands
+258 061 PF French Polynesia
+570 061 NU Niue
+612 061 PN Pitcairn
+882 061 WS Samoa
+772 061 TK Tokelau
+776 061 TO Tonga
+798 061 TV Tuvalu
+876 061 WF Wallis and Futuna Islands
+990 001 XG Unclassified
+010 990 AQ Antartica
+074 990 BV Bouvet Island
+086 990 IO British Indian Ocean Territory
+260 990 TF French Southern Territories
+334 990 HM Heard and McDonald Islands
+239 990 GS South Georgia and South Sandwich Islands
+581 990 UM United States Minor Outlying Islands
+166 990 CC Cocos and Keeling Islands
+162 990 CX Christmas Island
+536 990 NT Neutral Zone
+915 990 CP Clipperton Island
+917 990 EA Ceuta and Melilla
+922 990 AP Asia Pacific code
+923 990 ZZ Historial and Legacy
