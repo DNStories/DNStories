@@ -1,0 +1,72 @@
+Country	Total Score	Obstacles	Limits	Violations
+Angola	59 Partly Free	12	28	19
+Argentina	73 Free	19	28	26
+Armenia	72 Free	19	28	25
+Australia	76 Free	23	28	25
+Azerbaijan	37 Not Free	11	15	11
+Bahrain	28 Not Free	15	6	7
+Bangladesh	41 Partly Free	12	18	11
+Belarus	25 Not Free	13	7	5
+Brazil	64 Partly Free	20	23	21
+Cambodia	44 Partly Free	13	17	14
+Canada	88 Free	23	33	32
+China	9 Not Free	7	2	0
+Colombia	65 Partly Free	19	25	21
+Costa Rica	85 Free	21	33	31
+Cuba	20 Not Free	4	9	7
+Ecuador	64 Partly Free	18	24	22
+Egypt	28 Not Free	14	9	5
+Estonia	93 Free	25	31	37
+Ethiopia	26 Not Free	5	11	10
+France	76 Free	23	29	24
+Georgia	76 Free	19	29	28
+Germany	77 Free	23	28	26
+Ghana	65 Partly Free	15	27	23
+Hungary	69 Partly Free	21	24	24
+Iceland	94 Free	25	34	35
+India	50 Partly Free	13	20	17
+Indonesia	47 Partly Free	14	17	16
+Iran, Islamic Republic of	11 Not Free	6	4	1
+Iraq	43 Partly Free	11	17	15
+Italy	75 Free	21	29	25
+Japan	77 Free	22	29	26
+Jordan	47 Partly Free	13	17	17
+Kazakhstan	34 Not Free	12	12	10
+Kenya	66 Partly Free	16	27	23
+Kyrgyzstan	52 Partly Free	16	20	16
+Lebanon	50 Partly Free	9	22	19
+Libya	42 Partly Free	7	21	14
+Malawi	60 Partly Free	11	25	24
+Malaysia	61 Partly Free	19	22	20
+Mexico	62 Partly Free	18	25	19
+Morocco	53 Partly Free	17	21	15
+Myanmar	10 Not Free	2	5	3
+Nicaragua	42 Partly Free	11	16	15
+Nigeria	60 Partly Free	17	25	18
+Pakistan	26 Not Free	5	13	8
+Philippines	61 Partly Free	16	23	22
+Russian Federation	21 Not Free	10	5	6
+Rwanda	37 Not Free	13	11	13
+Saudi Arabia	25 Not Free	13	7	5
+Serbia	71 Free	22	24	25
+Singapore	54 Partly Free	19	17	18
+South Africa	73 Free	17	29	27
+Korea, Republic of	67 Partly Free	22	24	21
+Sri Lanka	52 Partly Free	12	22	18
+Sudan	30 Not Free	5	15	10
+Taiwan	78 Free	24	29	25
+Thailand	39 Not Free	16	14	9
+Gambia	56 Partly Free	13	24	19
+Tunisia	59 Partly Free	16	26	17
+Türkiye	30 Not Free	12	10	8
+Uganda	51 Partly Free	13	20	18
+Ukraine	59 Partly Free	18	22	19
+United Arab Emirates	30 Not Free	14	9	7
+United Kingdom of Great Britain and Northern Ireland	79 Free	24	30	25
+United States of America	76 Free	21	30	25
+Uzbekistan	25 Not Free	8	11	6
+Venezuela, Bolivarian Republic of	29 Not Free	7	11	11
+Viet Nam	22 Not Free	12	6	4
+Zambia	59 Partly Free	15	24	20
+Zimbabwe	51 Partly Free	10	23	18
+
