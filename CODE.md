@@ -20,4 +20,6 @@ Use the notebook `Index correlation.ipynb` to analyze the APNIC data against the
 
 For internal purposes only, it won't work without the right credentials, and those can't be shared.
 
+## Generate visualisations
 
+To compare the adoption of resolvers in a visual way, use the notebook `Visualize changes.ipynb`
