@@ -1,0 +1,41 @@
+rv_name,rv_label,rv_url
+allopnrvrs,All Open Resolvers
+sameas,Same AS
+samecc,Same Country
+diffcc,Different Country
+cloudflare,Cloudflare 1.1.1.1,https://1.1.1.1/dns/
+cnnic,CNNIC SDNS,http://www.sdns.cn
+dnspai,DNS PAI,http://www.dnspai.com/public.html
+dnspod,DNSPod,https://www.dnspod.cn/products/public.dns
+dnswatch,DNS.Watch,https://dns.watch
+dyn,Oracle Dyn,https://help.dyn.com/internet-guide-setup/
+freedns,Free DNS,https://freedns.zone/en/
+googlepdns,Google Public DNS,https://developers.google.com/speed/public-dns/
+greenteamdns,Green Team DNS,http://www.greentm.co.uk/
+he,Hurricane Electric DNS,https://dns.he.net
+level3,Level 3,http://www.level3.com/en/
+neustar,Neustar,https://www.security.neustar/dns-services/free-recursive-dns-service
+onedns,One DNS,https://www.onedns.net
+opendns,OpenDNS,https://www.opendns.com
+opennic,Open NIC,https://www.opennic.org/
+quad9,Quad9,https://www.quad9.net
+uncensoreddns,Uncensored DNS,https://blog.uncensoreddns.org/
+vrsgn,Verisign Open DNS,https://www.verisign.com/en_US/security-services/public-dns/index.xhtml
+yandex,Yandex DNS,https://dns.yandex.com/
+comodo,Comodo Secure DNS,https://www.comodo.com/secure-dns/
+safedns,SafeDNS,https://www.safedns.com
+freenom,Freenom World,http://www.freenom.world/
+cleanbrowsing,CleanBrowsing,https://cleanbrowsing.org/
+alternatedns,Alternate DNS,https://alternate-dns.com/
+puntcat,puntCAT,http://www.servidordenoms.cat/
+alidns,AliDNS,http://www.alidns.com
+baidu,Baidu DNS,https://dudns.baidu.com/intro/publicdns/
+114dns,114 DNS,https://www.114dns.com/
+quad101,TWNIC Quad 101,https://101.101.101.101/index_en.html 101.101.101.101
+xopnrvrs,No Open Resolvers
+incc,In-Country Resolver
+outcc,Out-of-Country Resolver
+inccx,In-Country non-open Resolver
+outccx,Out-of-Country non-open Resolver
+diffcceu,Different Country (EU)
+diffccneu,Different Country (NEU)
