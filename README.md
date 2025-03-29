@@ -79,4 +79,6 @@ The analysis focused on global trends in DNS resolver usage, using data from APN
 3. Expand to other datasets like RIPE Atlas to broaden the research base.
 
 ---
+## Project Concluded
+Link to the report will be available at digitalmedusa.org
 
